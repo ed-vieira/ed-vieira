@@ -1,4 +1,4 @@
-### Hi there 👋
+Software engineering, back-end development - NodeJs, Go, Python/Django, PHP/Laravel
 
 <!--
 **ed-vieira/ed-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
