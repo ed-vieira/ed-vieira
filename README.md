@@ -1,5 +1,7 @@
 Software engineering, back-end development - NodeJs, Go, Python/Django, PHP/Laravel
 
+Portfolio: <a href="https://ed-vieira.github.io/" target="_blank"> https://ed-vieira.github.io/ </a>
+
 <!--
 **ed-vieira/ed-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
